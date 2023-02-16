@@ -75,7 +75,7 @@
     border-right: 1px solid rgb(221, 206, 206);
 }
 .container {
-    min-height: 150vh;
+    min-height: 200vh;
     background-color: rgb(238, 238, 231);
     padding: 50px;
 }
